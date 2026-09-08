@@ -1,0 +1,17 @@
+stud1 as Default Constructor
+Default Constructor
+RollNo: 111
+Marks: 80
+Admission Year: 2020
+
+stud2 as Parameterized Constructor
+Parameterized Constructor
+RollNo: 200
+Marks: 90
+Admission Year: 2021
+
+stud3 as Copy Constructor
+Copy Constructor
+RollNo: 200
+Marks: 90
+Admission Year: 2021
