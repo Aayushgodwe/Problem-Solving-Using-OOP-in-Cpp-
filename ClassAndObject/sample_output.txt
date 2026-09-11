@@ -1,0 +1,7 @@
+Enter roll number: 125
+Enter marks: 90
+
+Student Details
+Roll Number: 125
+Marks: 90
+Result: Pass
