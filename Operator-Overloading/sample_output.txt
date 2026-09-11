@@ -1,0 +1,9 @@
+         Parameterized constructor output :
+   ********** S & V of 1st & 2nd Month **********
+         subscribers = 1200 , views = 2500
+         subscribers = 800 , views = 2500
+    *************** Total S & V ***************
+         subscribers = 2000 , views = 5000
+
+           Default Constructor output :
+         subscribers = 1000 , views = 2000
