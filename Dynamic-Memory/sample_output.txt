@@ -1,0 +1,9 @@
+Enter number of students: 3
+Enter marks: 20
+Enter marks: 30
+Enter marks: 40
+Marks: 20
+Marks: 30
+Marks: 40
+Marks after bonus: 25
+Memory released successfully
