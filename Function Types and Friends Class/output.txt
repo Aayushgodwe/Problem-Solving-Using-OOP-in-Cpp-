@@ -1,0 +1,13 @@
+Student a1.
+RollNO:12325728
+Name:Aman
+marks:80
+student a2.
+RollNO:12325824
+Name:Suraj
+marks:90
+Total Students:2
+Result Information
+Aman has passed.
+Result Information
+Suraj has passed.
