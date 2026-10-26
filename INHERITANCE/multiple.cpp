@@ -48,3 +48,15 @@ int main(){
 	s.subject="Maths";
 	s.sch();
 }
+
+
+
+output:
+
+Batch :2,Admission_no :202501
+name :Aman
+mobile_no :942378222
+money :25000
+subject :Maths
+marks :90
+PRN :12345
