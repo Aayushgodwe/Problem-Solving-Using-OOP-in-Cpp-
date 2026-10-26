@@ -28,3 +28,9 @@ int main(){
 	s.marks=97;
 	s.sub();
 }
+
+
+
+output: 
+name :Aman,  roll_no :12345
+name :Suman,  marks :97
