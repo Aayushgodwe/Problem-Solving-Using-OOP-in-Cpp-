@@ -1,0 +1,65 @@
+# Implementation of Different Types of Inheritance in C++
+
+## Aim
+To implement and understand different types of inheritance in C++ using classes and objects.
+
+## Problem Statement
+To demonstrate hierarchical inheritance, multiple inheritance, and hybrid inheritance in C++ and understand how data members and member functions are inherited from base classes to derived classes.
+
+## Types of Inheritance Implemented
+
+### 1. Hierarchical Inheritance
+In hierarchical inheritance, multiple derived classes inherit from a single base class.
+
+- **Base class:** `person`
+- **Derived classes:** `Aman` and `Suman`
+- The `person` class contains the common data member `name`.
+
+### 2. Multiple Inheritance
+In multiple inheritance, one derived class inherits from two or more base classes.
+
+- **Base classes:** `parent` and `student`
+- **Derived class:** `school`
+- The `school` class accesses personal and academic information from both base classes.
+
+### 3. Hybrid Inheritance
+Hybrid inheritance is a combination of two or more types of inheritance.
+
+- `Aman` and `Suman` inherit from `person`.
+- `Raman` inherits from `Aman`, demonstrating multilevel inheritance.
+- `man` inherits from both `Aman` and `Suman`, demonstrating multiple inheritance.
+
+The scope resolution operator (`::`) is used to resolve ambiguity when accessing `name` through `Aman`.
+
+## Technologies Used
+- Programming Language: C++
+- Header Files: `iostream`
+- Compiler: GCC / any standard C++ compiler
+- IDE: Visual Studio Code or Code::Blocks
+
+## How to Run the Program
+
+1. Clone or download this repository.
+2. Open the source code in your preferred C++ IDE.
+3. Save the code with a `.cpp` extension.
+4. Compile and execute the program.
+
+### Using GCC
+
+```bash
+g++ filename.cpp -o inheritance
+./inheritance
+```
+
+On Windows, run the compiled program using:
+
+```bash
+inheritance.exe
+```
+
+Replace `filename.cpp` with the actual name of your source file.
+
+## Sample Output
+
+### Hierarchical Inheritance
+
