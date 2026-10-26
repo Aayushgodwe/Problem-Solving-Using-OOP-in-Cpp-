@@ -58,3 +58,10 @@ int main(){
     m.maan();
 	 
 }
+
+
+output:
+name :Aman,  roll_no :12345
+name :Suman,  marks :97
+name:Raman, roll_no :67890, Batch2
+name :Man,  roll_no :12,  marks :87
